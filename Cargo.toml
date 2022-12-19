@@ -1,0 +1,13 @@
+[package]
+name = "shield-maker"
+version = "0.1.0"
+edition = "2021"
+authors = ["Victor \"Vito\" Gama <hey@vito.io>"]
+description = "A small library for generating SVG badges like shields.io"
+license = "MIT"
+repository = "https://github.com/heyvito/shield-maker"
+exclude = ["tests/resources/*"]
+
+[dependencies]
+ab_glyph = "0.2.18"
+css-color-parser = "*"
