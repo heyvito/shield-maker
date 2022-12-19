@@ -10,4 +10,4 @@ exclude = ["tests/resources/*"]
 
 [dependencies]
 ab_glyph = "0.2.18"
-css-color-parser = "*"
+css-color-parser = "0.1.2"
