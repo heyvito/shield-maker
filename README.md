@@ -1,7 +1,8 @@
 # shield-maker
-![Build Status](https://github.com/heyvito/shield-maker/workflows/shield-maker/badge.svg)
+[![shield-maker](https://github.com/heyvito/shield-maker/actions/workflows/main.yml/badge.svg)](https://github.com/heyvito/shield-maker/actions/workflows/main.yml)
 [![Crates.io](https://img.shields.io/crates/v/shield-maker.svg)](https://crates.io/crates/shield-maker)
 [![Documentation](https://docs.rs/shield-maker/badge.svg)](https://docs.rs/shield-maker)
+![](https://img.shields.io/badge/Rust-1.32+-orange.svg)
 ![](https://img.shields.io/badge/unsafe-forbidden-brightgreen.svg)
 
 shield-maker implements a badge generator based on [Shields.io](https://github.com/badges/shields) implementation.
